@@ -66,7 +66,7 @@ npm run dev
 ├── app/
 │   ├── page.tsx             # Main game component
 │   └── layout.tsx           # Root layout (font, Tailwind base)
-│   └── slideshow.js         # Rotating background image slideshow
+│   └── slideshow.js         # Rotating background image slideshow(future use)
 │   └── SearchParamsComponent.js  # Handles setting `gameId` from URL
 ├── public/
 │   ├── audios/              # Background & check sound effects
